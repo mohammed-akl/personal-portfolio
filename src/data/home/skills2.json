@@ -1,0 +1,21 @@
+[
+  {
+    "photo": "/assets/imgs/awards/secarmy.png",
+    "title": "Course completed",
+    "headline": "Bug Bounty: Hacking WebApps from Scratch",
+    "year": "2021"
+  },
+  {
+    "photo": "/assets/imgs/awards/redhat.svg",
+    "title": "Certified",
+    "headline": "Redhat Certified System Administrator",
+    "year": "2019"
+  },
+  
+  {
+    "photo": "/assets/imgs/awards/flutter.png",
+    "title": "Certified",
+    "headline": "Flutter developer",  
+    "year": "2018"
+  }
+]

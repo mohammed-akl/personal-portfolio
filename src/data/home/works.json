@@ -1,0 +1,26 @@
+[
+  {
+    "photo": "/assets/imgs/works/1.jpg",
+    "title": "GeekFolio Portfolio",
+    "link": "/dark/works/single-project",
+    "tag": "Website"
+  },
+  {
+    "photo": "/assets/imgs/works/2.jpg",
+    "title": "Luxury Modern Website",
+    "link": "/dark/works/single-project",
+    "tag": "Website"
+  },
+  {
+    "photo": "/assets/imgs/works/3.jpg",
+    "title": "decastleinteriors.com",
+    "link": "/dark/works/single-project",
+    "tag": "Website"
+  },
+  {
+    "photo": "/assets/imgs/works/3.jpg",
+    "title": "amanahospital.in",
+    "link": "/dark/works/single-project",
+    "tag": "Website"
+  }
+]

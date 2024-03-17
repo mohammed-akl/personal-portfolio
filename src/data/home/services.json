@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "/assets/imgs/serv-img/2.png",
+    "title": "WEB/MOBILE DEVELOPMENT",
+    "description": "Crafting immersive digital experiences through innovative web and mobile development solutions."
+  },
+  {
+    "icon": "/assets/imgs/serv-img/1.png",
+    "title": "UI / UX DESIGN",
+    "description": "Transforming ideas into engaging and intuitive digital experiences through expert UI/UX design. "
+  },
+  {
+    "icon": "/assets/imgs/serv-img/5.png",
+    "title": "SECURITY CONSULTATION",
+    "description": "Delivering expert cyber security consultation to fortify your digital defenses and protect against evolving cyber attacks."
+  },
+  {
+    "icon": "/assets/imgs/serv-img/4.png",
+    "title": "TECHNOLOGY SOLUTION",
+    "description": "Empowering businesses with cutting-edge technology solutions tailored to drive innovation and optimize operations."
+  }
+]

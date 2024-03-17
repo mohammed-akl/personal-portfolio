@@ -6,6 +6,7 @@ import ProgressScroll from '@/components/Common/ProgressScroll';
 import Navbar from '@/components/home/Navbar';
 import Landing from '@/components/home/Landing';
 import Lines from '@/components/Common/Lines';
+import Dark from './dark/page';
 export const metadata = {
   title: 'Mohammed Alukkal',
   icons: {
@@ -27,9 +28,8 @@ export default function Home() {
       <div>
         <div>
           <div>
-            <Navbar />
             <main>
-              <Landing />
+              <Dark />
             </main>
           </div>
         </div>

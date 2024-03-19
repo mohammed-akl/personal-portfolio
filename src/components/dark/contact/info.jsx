@@ -10,7 +10,7 @@ function Info() {
         <div className="col-lg-5">
           <div className="sec-head md-mb80 wow fadeIn">
             <h6 className="sub-title mb-15 opacity-7">Get In Touch</h6>
-            <h2 className="fz-50">Let is make your brand brilliant!</h2>
+            <h2 className="fz-50">Let us make your brand brilliant!</h2>
             <p className="fz-15 mt-10">
               If you would like to work with me or just want to get in touch,
               I’d love to hear from you!

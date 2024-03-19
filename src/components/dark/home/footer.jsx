@@ -11,10 +11,10 @@ function Footer() {
                 © 2024 Powered by{' '}
                 <span className="underline main-color">
                   <a
-                    href="https://mohammedalukkal.in/"
+                    href="https://mohammedalukkal.com/"
                     target="_blank"
                   >
-                    mohammedalukkal.in
+                    mohammedalukkal.com
                   </a>
                 </span>
               </p>

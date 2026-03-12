@@ -1,20 +1,14 @@
 'use client';
 
 import { useEffect } from 'react';
-import { useRouter } from 'next/navigation';
 
 export default function Home() {
-  const router = useRouter();
-
   useEffect(() => {
-    router.replace('/dark');
-  }, [router]);
+    // Use a hard navigation so the /dark page loads as the entry point.
+    // This avoids flashes of interim UI and ensures scripts/init logic run reliably.
+    window.location.replace('/dark');
+  }, []);
 
-  return (
-    <main style={{ padding: 24 }}>
-      <p>
-        Redirecting to <a href="/dark">/dark</a>…
-      </p>
-    </main>
-  );
+  // Render nothing to avoid any "Redirecting..." flash.
+  return null;
 }

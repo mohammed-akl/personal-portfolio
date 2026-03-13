@@ -39,7 +39,7 @@ function Profile() {
         </div>
         <div className="col-lg-8 content main-bg">
           <h1>
-            Hello, I’m <span className="main-color">Mohammed Alukkal</span>, Front-end
+            Hello, I’m <span className="main-color">Mohammed Alukkal</span>, Mobile
             Developer and{' '}
             <span className="bord">
               Cyber Security Consultant<i></i>
@@ -50,7 +50,7 @@ function Profile() {
             <div className="d-flex align-items-center">
               <div className="mr-40">
                 <div className="d-flex align-items-center">
-                  <h2>5+</h2>
+                  <h2>7+</h2>
                   <p>
                     Years <br /> of Experance
                   </p>
